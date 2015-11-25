@@ -1,0 +1,3 @@
+
+a#SeiyaTest-introLink img { background-image : url(graphics/sample.gif); }
+a#SeiyaTest-introLink:hover img { background-image : url(graphics/sample_hov.gif); }
