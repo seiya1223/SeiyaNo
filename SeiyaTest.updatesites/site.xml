@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/SeiyaTest.feature_1.0.0.201511242244.jar" id="SeiyaTest.feature" version="1.0.0.201511242244"/>
-   <category-def name="seiyaTest" label="seiyaTest"/>
+   <feature url="features/SeiyaTest.feature_1.0.0.201512011853.jar" id="SeiyaTest.feature" version="1.0.0.201512011853">
+      <category name="SeiyaTestSite"/>
+   </feature>
+   <category-def name="SeiyaTestSite" label="SeiyaTestSite"/>
 </site>
